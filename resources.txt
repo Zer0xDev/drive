@@ -34,3 +34,5 @@ macOS 10.13.6 High Sierra x64 (7.35 GB)
 https://drive.google.com/file/d/1p0ZZJH0QbGWpMvXQhW3KKw6NoxvwQSbd/view?usp=sharing
 macOS 10.12.6 Sierra x64 (7.8 GB)
 https://drive.google.com/file/d/1FYsDAlV0RGZqY8mECxYirJRtEe9G4V3F/view?usp=sharing
+OSX 10.11.6 El Capitan x64 (5.94 GB)
+https://drive.google.com/file/d/1nhcz4im9pr7Pq3b3HhSzSuFyqERsutdr/view?usp=sharing
