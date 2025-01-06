@@ -14,6 +14,8 @@ Windows 10 1909 Russian x64 (5.11 GB)
 https://drive.google.com/file/d/1KmSCxCR4SC_Xa7bcRl8UtvFdRyiwMPI_/view?usp=sharing
 Windows 10 1809 Russian x64 (4.74 GB)
 https://drive.google.com/file/d/1bpwuF5jGsGu7nvSXBOR_xZSMmYGjdDuJ/view?usp=sharing
+Windows 10 1709 Russian x64 (4.17 GB)
+https://drive.google.com/file/d/142JWTb_TU4Zm-67iGqdPgS5W3BzkV-ao/view?usp=sharing
 Windows 8.1 Russian x64 (3.83 GB)
 https://drive.google.com/file/d/1MQJz7cSGJNal_fjkbEmw3P-CWt8TuiqV/view?usp=sharing
 Windows 8 x64 (3.25 GB)
@@ -22,13 +24,13 @@ Windows 7 SP1 Russian x64 (3.23 GB)
 https://drive.google.com/file/d/1TjBYyaVApBGRHKWc7VBWe0Hcq72hWiXY/view?usp=sharing
 Windows Vista SP2 Russian x64 (3.72 GB)
 https://drive.google.com/file/d/1XZSrNFy19s1FETMeYKUesu8RWfCF0Hly/view?usp=sharing
-macOS 11 Big Sur x64 (13.06 GB)
+macOS 11.7.10 Big Sur x64 (13.06 GB)
 https://drive.google.com/file/d/1sigtjk6h-00CMp3T09thRbpWLV2xUEn2/view?usp=sharing
-macOS 10.15 Catalina x64 (8.34 GB)
+macOS 10.15.7 Catalina x64 (8.34 GB)
 https://drive.google.com/file/d/1IElDtKx82-CUkzgAwTdMSwfWnP0_qlRo/view?usp=sharing
-macOS 10.14 Mojave x64 (6.51 GB)
+macOS 10.14.6 Mojave x64 (6.51 GB)
 https://drive.google.com/file/d/1W4MT86EM1MBHNBHd7vlV17vH-L-VuEGQ/view?usp=sharing
-macOS 10.13 High Sierra x64 (7.35 GB)
+macOS 10.13.6 High Sierra x64 (7.35 GB)
 https://drive.google.com/file/d/1p0ZZJH0QbGWpMvXQhW3KKw6NoxvwQSbd/view?usp=sharing
-macOS 10.12 Sierra x64 (7.8 GB)
+macOS 10.12.6 Sierra x64 (7.8 GB)
 https://drive.google.com/file/d/1FYsDAlV0RGZqY8mECxYirJRtEe9G4V3F/view?usp=sharing
