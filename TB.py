@@ -1,6 +1,9 @@
 import os
+import getpass
 
-os.chdir("/Users/zeroxdev/Downloads/turbo-boost-disable-main")
+path = "/Users/" + getpass.getuser() + "/TurboMac/"
+
+os.chdir(path)
 
 os.system("clear")
 os.system("chmod +x load.sh")
